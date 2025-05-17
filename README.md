@@ -16,4 +16,10 @@ Interactive Dashboard – built to present insights in a user-friendly and dynam
 To explore and visualize patterns in the wealthiest individuals' data, identify top industries and countries contributing to global wealth, and present it in an engaging dashboard.
 
 
+# 📂 How to Use
+1. Open `Richest_People_Analysis.xlsx` in Excel.
+2. Use slicers to filter by country, industry, etc.
+3. Explore the dashboard and pivot tables.
+
+
 
