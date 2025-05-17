@@ -17,7 +17,7 @@ To explore and visualize patterns in the wealthiest individuals' data, identify 
 
 
 # 📂 How to Use
-1. Open `Richest_People_Analysis.xlsx` in Excel.
+1. Open Project file in Excel.
 2. Use slicers to filter by country, industry, etc.
 3. Explore the dashboard and pivot tables.
 
