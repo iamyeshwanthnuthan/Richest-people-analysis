@@ -21,5 +21,27 @@ To explore and visualize patterns in the wealthiest individuals' data, identify 
 2. Use slicers to filter by country, industry, etc.
 3. Explore the dashboard and pivot tables.
 
+# ✅ Suggested KPIs:
+Total Net Worth
+➤ Sum of all billionaires' net worth.
+
+Average Net Worth
+➤ Mean wealth per person.
+
+Top 1 Richest Person
+➤ Name + Net worth.
+
+Top Country by Count
+➤ Country with the most billionaires.
+
+Top Industry
+➤ Industry contributing the most to global wealth.
+
+% Self-Made vs Inherited Wealth
+➤ Distribution type as a percentage.
+
+Gender Distribution (if data available)
+➤ Male vs Female billionaires count or %
+
 
 
